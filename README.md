@@ -1,2 +1,2 @@
-# Signal processing methods 
+**Signal processing methods**
  
