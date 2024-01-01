@@ -1,4 +1,5 @@
-**Signal processing methods**
+**Signal processing methods**<br/>
+
 **Welch's Method for Smooth Spectral Decomposition**<br/>
 Welch's method is a technique for estimating the power spectral density (PSD) of a signal. It improves upon the periodogram method by dividing the signal into overlapping segments, applying a window function to each segment, and averaging the resulting periodograms to obtain a smoother PSD estimate.<br/>
 **Steps:**
